@@ -30,4 +30,6 @@ The solution does not automatize all stages of systematic reviews, so those stag
 The more accurate judgements the AI is capable of making from research articles, the more tasks in research can be automatized. 
 
 
+##  Acknowledgments
 
+No sources used
